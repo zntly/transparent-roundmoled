@@ -157,6 +157,7 @@ box-shadow: rgba(0, 0, 0, 0.308) 0px 8px 24px;
 transition: color 200ms ease;
 }
 .imageWrapper-oMkQl4:hover{
+    transform: scale(1.2);
     box-shadow: var(--applethingsbshadow);
     z-index: 3;
 }
